@@ -4,7 +4,7 @@
 
 - Form is <a href="https://github.com/josuehoenicka">Josue Hoenicka</a>'s first project on HTML and CSS
 - Form is a contact form, adapted for PC, Tablet and Mobile. This form is currently in use on the <a href="https://playhoenicka.github.io/">PlayHoenicka</a> page, it has button interaction and a linear gradient when selecting a form box
-- I leave my project open so anyone can use it and improve it!
+- I left my project open so anyone can use it and improve it!
 
 <b>SPANISH</b>
 
